@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 200px;
+    background-color: rgb(249, 223, 228);
+  }
+
+  .container{
+    border: 5px solid;
+    border-color: rgb(75, 3, 53);
+  }
+  button {
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: beige;
+    border: none;
+  }
+  #result{
+    font-size: 40px;
+    background-color: rgb(75, 3, 53);
+    color: white;
+    margin: 15px;
+    padding: 10px;
+  }
+  #para{
+    font-size: 30px;
+    padding: 10px;
+  }
